@@ -18,8 +18,8 @@ jobs:
       - name: 签出主题仓库
         uses: actions/checkout@v4
         with:
-          repository: jerryc127/hexo-theme-butterfly
-          path: themes/butterfly
+          repository: anzhiyu-c/hexo-theme-anzhiyu
+          path: themes/anzhiyu
 
       - name: 安装 Node.js
         uses: actions/setup-node@v4
