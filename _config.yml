@@ -6,8 +6,8 @@ theme: anzhiyu
 
 # Site
 title: Light
-subtitle: ''
-description:'light-description'
+subtitle: 'light-subs'
+description: 'light-description'
 keywords: ['light','hexo']
 author: Mo
 language: zh-CN
