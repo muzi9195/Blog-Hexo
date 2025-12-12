@@ -46,8 +46,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          git config --global user.email "misaka@yangrucheng.top"
-          git config --global user.name "Misaka-1314"
+          git config --global user.email "1504821574@qq.com"
+          git config --global user.name "muzi9195"
           cd public
           git init --initial-branch=main
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
